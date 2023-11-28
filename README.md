@@ -1,4 +1,4 @@
-defeo
+Gang slayer
 =====
 
-My Jekyll blog, and professional page, etc.
+Yay 
